@@ -25,7 +25,7 @@ This project includes examples of:
 
 
  Project Structure
-
+```text
 AutomationTesting/
 │
 ├── .venv/
@@ -48,7 +48,7 @@ AutomationTesting/
 ├── workingwithsql.py
 └── README.md
 
-
+```
 Tech Stack
 
 - **Language:** Python
